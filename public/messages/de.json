@@ -1,0 +1,89 @@
+{
+    "DE": {
+      "Home": {
+        "Title": "Authentischer muslimischer Dhikr",
+        "Titledisc": "Übersetzt in zwanzig Sprachen zusätzlich zum Arabischen. Die Übersetzung wurde unter Verwendung islamischer Quellen in diesen Sprachen durchgeführt. Wir haben hart daran gearbeitet, die Übersetzungen zu verfeinern, und da menschliche Arbeit der Unvollkommenheit unterliegt, insbesondere Computerschriftarten möglicherweise nicht 100% des Zwecks erfüllen, bitten wir demütig darum, Feedback zur Übersetzung über die beigefügte Telegram-ID zu senden. Teilen Sie die Belohnung und verbergen Sie keine Beobachtung, die die Übersetzung für Ihre muslimischen Brüder auf der ganzen Welt verbessert.",
+        "TitleHomePage": "Übersetzt in zwanzig Sprachen zusätzlich zum Arabischen. Die Übersetzung wurde unter Verwendung islamischer Quellen in diesen Sprachen durchgeführt. Wir haben hart daran gearbeitet, die Übersetzungen zu verfeinern, und da menschliche Arbeit der Unvollkommenheit unterliegt, insbesondere Computerschriftarten möglicherweise nicht 100% des Zwecks erfüllen, bitten wir demütig darum, Feedback zur Übersetzung über die beigefügte Telegram-ID zu senden. Teilen Sie die Belohnung und verbergen Sie keine Beobachtung, die die Übersetzung für Ihre muslimischen Brüder auf der ganzen Welt verbessert.",
+        "app": "Dhikr-App herunterladen",
+        "categorieserorr": "Keine Kategorien verfügbar.",
+        "categoriestitl": "Kategorien",
+        "categoriesdis": "Verfügbar",
+        "contact": "Kontaktieren Sie uns"
+      },
+      "morning-evening": {
+        "morningtitl": "Authentischer Dhikr",
+        "morningdis": "Morgen und Abend"
+      },
+      "sleep": {
+        "sleeptitl": "Authentischer Dhikr",
+        "sleepdis": "Schlaf"
+      },
+      "rbet": {
+        "num": "Anzahl der Wiederholungen"
+      },
+      "about": {
+        "aboutimg": "Wahrlich, im Gedenken an Allah finden die Herzen Ruhe",
+        "aboutmasige": "Unsere Mission",
+        "aboutmasigefoll": "Wir bemühen uns, den täglichen Dhikr für Muslime weltweit in ihrer Muttersprache zugänglich zu machen und dabei die Bedeutung und den Geist des Originaltextes zu bewahren.",
+        "aboutm": "Unsere Funktionen",
+        "aboutli1": "Mehrsprachig übersetzter Dhikr",
+        "aboutli2": "Benutzerfreundliche Smartphone-Anwendung",
+        "aboutli3": "Möglichkeit, Audio-Dhikr zu hören",
+        "aboutli4": "Tägliche Erinnerungen für Dhikr",
+        "aboutlang": "Verfügbare Sprachen",
+        "aboutapp": "Laden Sie unsere App herunter",
+        "aboutappdisc": "Holen Sie sich die Dhikr-App auf Ihr Telefon für schnellen Zugriff jederzeit und überall.",
+        "aboutappandr": "Für Android herunterladen",
+        "aboutappaple": "Für iPhone herunterladen",
+        "aboutcotshintitle": "Wie werden die Dhikrs ausgewählt?",
+        "aboutcotshindesc": "Wir verlassen uns bei der Auswahl der Dhikrs auf zuverlässige Quellen und authentische Hadith-Bücher, einschließlich der Überprüfung durch Expertengelehrte.",
+        "aboutcotshin1": "Ist die App kostenlos?",
+        "aboutcotshin11": "Ja, die App ist völlig kostenlos und für alle offen. Unser Ziel ist es, gute Taten kostenlos zu verbreiten.",
+        "aboutcotshin2": "Wie kann ich zur Übersetzung beitragen?",
+        "aboutcotshin22": "Wir begrüßen Übersetzungsbeiträge. Sie können uns über unsere Kontaktseite für weitere Informationen darüber kontaktieren, wie Sie teilnehmen können.",
+        "aboutcall": "Beteiligen Sie sich an der Verbreitung guter Taten",
+        "aboutdisc": "Helfen Sie uns, Dhikr zu verbreiten und andere an den Wert des Gedenkens an Allah zu erinnern.",
+        "aboutdisc2": "Erkunden Sie jetzt Dhikr"
+      },
+      "contact": {
+        "Contacttitl": "Kontaktieren",
+        "Contactdis": "Sie uns",
+        "CardTitle": "Kontaktieren Sie uns",
+        "CardDescription": "Wir sind hier, um Ihnen zu helfen. Senden Sie uns eine Nachricht und wir werden Ihnen so schnell wie möglich antworten.",
+        "name": "Name",
+        "email": "E-Mail",
+        "message": "Ihre Nachricht",
+        "submit": "Senden"
+      },
+      "Navbar": {
+        "HomePage": "Startseite",
+        "morning-eveningpage": "Morgen- und Abend-Dhikr",
+        "sleeppage": "Schlaf-Dhikr",
+        "aboutpage": "Über uns",
+        "contactPage": "Kontakt"
+      },
+      "Footer": {
+        "copyright": "Urheberrecht",
+        "MessageCircle": "WhatsApp",
+        "Facebook": "Facebook",
+        "Instagram": "Instagram",
+        "Send": "Telegram",
+        "Twitter": "Twitter"
+      },
+      "languages": {
+        "AR": "Arabisch",
+        "EN": "Englisch",
+        "FR": "Französisch",
+        "DE": "Deutsch"
+      },
+      "categories": {
+        "morning": "Morgen- und Abend-Dhikr",
+        "slep": "Schlaf-Dhikr"
+      },
+      "Buton": {
+        "dawn": "Herunterladen",
+        "red": "Lesen",
+        "mor": "Mehr erfahren"
+      }
+    }
+  }

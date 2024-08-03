@@ -1,0 +1,86 @@
+{
+    "Home": {
+      "Title": "Authentic Muslim Adhkar",
+      "Titledisc": "Translated into twenty languages other than Arabic. The translation was done by referring to Islamic sources translated into these languages. We have made every effort to perfect the translations, and since human work is subject to imperfection, especially as computer fonts may not serve the purpose 100%, we kindly request feedback regarding the translation to be sent to the attached Telegram ID. Share the reward and don't withhold from your Muslim brothers around the world any observation that improves the translation.",
+      "TitleHomePage": "Translated into twenty languages other than Arabic. The translation was done by referring to Islamic sources translated into these languages. We have made every effort to perfect the translations, and since human work is subject to imperfection, especially as computer fonts may not serve the purpose 100%, we kindly request feedback regarding the translation to be sent to the attached Telegram ID. Share the reward and don't withhold from your Muslim brothers around the world any observation that improves the translation.",
+      "app": "Download Adhkar App",
+      "categorieserorr": "No categories available.",
+      "categoriestitl": "Categories",
+      "categoriesdis": "Available",
+      "contact": "Contact Us"
+    },
+    "morning-evening": {
+      "morningtitl": "Authentic Adhkar",
+      "morningdis": "Morning and Evening"
+    },
+    "sleep": {
+      "sleeptitl": "Authentic Adhkar",
+      "sleepdis": "Sleep"
+    },
+    "rbet": {
+      "num": "Number of repetitions"
+    },
+    "about": {
+      "aboutimg": "Verily, in the remembrance of Allah do hearts find rest",
+      "aboutmasige": "Our Mission",
+      "aboutmasigefoll": "We strive to facilitate access for Muslims around the world to daily adhkar in their native languages, while maintaining the accuracy of meanings and the spirit of the original texts.",
+      "aboutm": "Our Features",
+      "aboutli1": "Adhkar translated into multiple languages",
+      "aboutli2": "User-friendly smartphone application",
+      "aboutli3": "Ability to listen to adhkar audio",
+      "aboutli4": "Daily reminders for adhkar",
+      "aboutlang": "Available Languages",
+      "aboutapp": "Download Our App",
+      "aboutappdisc": "Get the Adhkar app on your phone for quick access anytime, anywhere.",
+      "aboutappandr": "Download for Android",
+      "aboutappaple": "Download for iPhone",
+      "aboutcotshintitle": "How are the adhkar selected?",
+      "aboutcotshindesc": "We rely on trusted sources and authentic hadith books in selecting adhkar, with review by specialized scholars.",
+      "aboutcotshin1": "Is the app free?",
+      "aboutcotshin11": "Yes, the app is completely free and available to everyone. We aim to spread goodness without charge.",
+      "aboutcotshin2": "How can I contribute to the translation?",
+      "aboutcotshin22": "We welcome contributions to the translation. You can contact us through the Contact Us page for more information on how to participate.",
+      "aboutcall": "Participate in Spreading Goodness",
+      "aboutdisc": "Help us spread adhkar and remind others of the virtue of remembering Allah.",
+      "aboutdisc2": "Explore Adhkar Now"
+    },
+    "contact": {
+      "Contacttitl": "Contact",
+      "Contactdis": "Us",
+      "CardTitle": "Contact Us",
+      "CardDescription": "We're here to help. Send us a message and we'll respond as soon as possible.",
+      "name": "Name",
+      "email": "Email",
+      "message": "Your Message",
+      "submit": "Send"
+    },
+    "Navbar": {
+      "HomePage": "Home Page",
+      "morning-eveningpage": "Morning and Evening Adhkar",
+      "sleeppage": "Sleep Adhkar",
+      "aboutpage": "About",
+      "contactPage": "Contact Us"
+    },
+    "Footer": {
+      "copyright": "All rights reserved",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arabic",
+      "EN": "English",
+      "FR": "French"
+    },
+    "categories": {
+      "morning": "Morning and Evening Adhkar",
+      "slep": "Sleep Adhkar"
+    },
+    "Buton": {
+      "dawn": "Download",
+      "red": "Read",
+      "mor": "Learn More"
+    }
+  }

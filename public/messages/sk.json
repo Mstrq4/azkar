@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Autentické muslimské Adhkar",
+      "Titledisc": "Preložené do dvadsiatich jazykov okrem arabčiny. Preklad bol vykonaný s odkazom na islamské zdroje preložené do týchto jazykov. Vynaložili sme všetko úsilie na zdokonalenie prekladov, a keďže ľudská práca je náchylná k nedokonalosti, najmä preto, že počítačové fonty nemusia slúžiť účelu na 100%, láskavo žiadame spätnú väzbu týkajúcu sa prekladu, ktorú je možné zaslať na priložené ID Telegramu. Podeľte sa o odmenu a nezadržujte pred svojimi muslimskými bratmi na celom svete žiadne poznámky, ktoré by zlepšili preklad.",
+      "TitleHomePage": "Preložené do dvadsiatich jazykov okrem arabčiny. Preklad bol vykonaný s odkazom na islamské zdroje preložené do týchto jazykov. Vynaložili sme všetko úsilie na zdokonalenie prekladov, a keďže ľudská práca je náchylná k nedokonalosti, najmä preto, že počítačové fonty nemusia slúžiť účelu na 100%, láskavo žiadame spätnú väzbu týkajúcu sa prekladu, ktorú je možné zaslať na priložené ID Telegramu. Podeľte sa o odmenu a nezadržujte pred svojimi muslimskými bratmi na celom svete žiadne poznámky, ktoré by zlepšili preklad.",
+      "app": "Stiahnuť aplikáciu Adhkar",
+      "categorieserorr": "Nie sú k dispozícii žiadne kategórie.",
+      "categoriestitl": "Kategórie",
+      "categoriesdis": "K dispozícii",
+      "contact": "Kontaktujte nás"
+    },
+    "morning-evening": {
+      "morningtitl": "Autentické Adhkar",
+      "morningdis": "Ráno a Večer"
+    },
+    "sleep": {
+      "sleeptitl": "Autentické Adhkar",
+      "sleepdis": "Spánok"
+    },
+    "rbet": {
+      "num": "Počet opakovaní"
+    },
+    "about": {
+      "aboutimg": "Áno, v spomínaní si na Allaha srdcia nachádzajú pokoj",
+      "aboutmasige": "Naša misia",
+      "aboutmasigefoll": "Snažíme sa uľahčiť prístup pre muslimov na celom svete k denným adhkarom v ich rodnom jazyku, pričom zachovávame presnosť významov a ducha pôvodných textov.",
+      "aboutm": "Naše funkcie",
+      "aboutli1": "Adhkar preložené do viacerých jazykov",
+      "aboutli2": "Používateľsky prívetivá aplikácia pre smartfóny",
+      "aboutli3": "Možnosť počúvať zvuk adhkarov",
+      "aboutli4": "Denné pripomienky adhkarov",
+      "aboutlang": "Dostupné jazyky",
+      "aboutapp": "Stiahnuť našu aplikáciu",
+      "aboutappdisc": "Získajte aplikáciu Adhkar na svojom telefóne pre rýchly prístup kedykoľvek, kdekoľvek.",
+      "aboutappandr": "Stiahnuť pre Android",
+      "aboutappaple": "Stiahnuť pre iPhone",
+      "aboutcotshintitle": "Ako sú adhkary vyberané?",
+      "aboutcotshindesc": "Pri výbere adhkarov sa spoliehame na dôveryhodné zdroje a autentické hadísové knihy, s preskúmaním odbornými učenými.",
+      "aboutcotshin1": "Je aplikácia zadarmo?",
+      "aboutcotshin11": "Áno, aplikácia je úplne zadarmo a dostupná pre každého. Naším cieľom je šíriť dobro bez poplatku.",
+      "aboutcotshin2": "Ako môžem prispieť k prekladu?",
+      "aboutcotshin22": "Radi privítame príspevky k prekladu. Môžete nás kontaktovať cez stránku Kontaktujte nás pre viac informácií o tom, ako sa zapojiť.",
+      "aboutcall": "Zapojte sa do šírenia dobra",
+      "aboutdisc": "Pomôžte nám šíriť adhkary a pripomínať ostatným cnosť spomínania si na Allaha.",
+      "aboutdisc2": "Preskúmajte Adhkar teraz"
+    },
+    "contact": {
+      "Contacttitl": "Kontakt",
+      "Contactdis": "S nami",
+      "CardTitle": "Kontaktujte nás",
+      "CardDescription": "Sme tu, aby sme pomohli. Pošlite nám správu a my vám odpovieme čo najskôr.",
+      "name": "Meno",
+      "email": "Email",
+      "message": "Vaša správa",
+      "submit": "Odoslať"
+    },
+    "Navbar": {
+      "HomePage": "Domovská stránka",
+      "morning-eveningpage": "Ranné a Večerné Adhkar",
+      "sleeppage": "Spánkové Adhkar",
+      "aboutpage": "O nás",
+      "contactPage": "Kontaktujte nás"
+    },
+    "Footer": {
+      "copyright": "Všetky práva vyhradené",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arabčina",
+      "EN": "Angličtina",
+      "FR": "Francúzština"
+    },
+    "categories": {
+      "morning": "Ranné a Večerné Adhkar",
+      "slep": "Spánkové Adhkar"
+    },
+    "Buton": {
+      "dawn": "Stiahnuť",
+      "red": "Čítať",
+      "mor": "Viac informácií"
+    }
+  }
+  

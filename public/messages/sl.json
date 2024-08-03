@@ -1,0 +1,88 @@
+{
+    "Home": {
+      "Title": "Avtentični muslimanski Adhkar",
+      "Titledisc": "Prevedeno v dvajset jezikov, razen arabščine. Prevod je bil izveden z upoštevanjem islamskih virov, prevedenih v te jezike. Storili smo vse, da bi izpopolnili prevode, in ker je človeško delo podvrženo nepopolnosti, še posebej, ker računalniške pisave morda ne služijo namenu 100 %, prijazno prosimo za povratne informacije glede prevoda, poslane na priloženi Telegram ID. Delite nagrado in ne zadržujte svojih muslimanskih bratov po vsem svetu nobenih pripomb, ki izboljšajo prevod.",
+      "TitleHomePage": "Prevedeno v dvajset jezikov, razen arabščine. Prevod je bil izveden z upoštevanjem islamskih virov, prevedenih v te jezike. Storili smo vse, da bi izpopolnili prevode, in ker je človeško delo podvrženo nepopolnosti, še posebej, ker računalniške pisave morda ne služijo namenu 100 %, prijazno prosimo za povratne informacije glede prevoda, poslane na priloženi Telegram ID. Delite nagrado in ne zadržujte svojih muslimanskih bratov po vsem svetu nobenih pripomb, ki izboljšajo prevod.",
+      "app": "Prenesite Adhkar aplikacijo",
+      "categorieserorr": "Ni razpoložljivih kategorij.",
+      "categoriestitl": "Kategorije",
+      "categoriesdis": "Na voljo",
+      "contact": "Kontaktirajte nas"
+    },
+    "morning-evening": {
+      "morningtitl": "Avtentični Adhkar",
+      "morningdis": "Jutro in Večer"
+    },
+    "sleep": {
+      "sleeptitl": "Avtentični Adhkar",
+      "sleepdis": "Spanje"
+    },
+    "rbet": {
+      "num": "Število ponovitev"
+    },
+    "about": {
+      "aboutimg": "Resnično, v spominjanju Allaha srca najdejo mir",
+      "aboutmasige": "Naše Poslanstvo",
+      "aboutmasigefoll": "Prizadevamo si olajšati dostop muslimanom po vsem svetu do dnevnih adhkar v njihovem maternem jeziku, pri čemer ohranjamo natančnost pomenov in duha izvirnih besedil.",
+      "aboutm": "Naše Funkcije",
+      "aboutli1": "Adhkar preveden v več jezikov",
+      "aboutli2": "Uporabniku prijazna aplikacija za pametne telefone",
+      "aboutli3": "Možnost poslušanja adhkar avdio",
+      "aboutli4": "Dnevni opomniki za adhkar",
+      "aboutlang": "Razpoložljivi Jeziki",
+      "aboutapp": "Prenesite našo aplikacijo",
+      "aboutappdisc": "Dobite aplikacijo Adhkar na svoj telefon za hiter dostop kadarkoli in kjerkoli.",
+      "aboutappandr": "Prenesite za Android",
+      "aboutappaple": "Prenesite za iPhone",
+        "aboutcotshintitle": "Kako so izbrani adhkarji?",
+        "aboutcotshindesc": "Zanašamo se na zanesljive vire in avtentične haditske knjige pri izbiri adhkarjev, s pregledom specializiranih učenjakov.",
+        "aboutcotshin1": "Ali je aplikacija brezplačna?",
+        "aboutcotshin11": "Da, aplikacija je popolnoma brezplačna in dostopna vsem. Želimo širiti dobro brezplačno.",
+        "aboutcotshin2": "Kako lahko prispevam k prevodu?",
+        "aboutcotshin22": "Prispevke k prevodu pozdravljamo. Kontaktirate nas lahko preko strani Kontaktirajte nas za več informacij o tem, kako sodelovati.",
+        "aboutcall": "Sodelujte pri širjenju dobrega",
+        "aboutdisc": "Pomagajte nam širiti adhkar in opominjati druge na vrednost spominjanja Allaha.",
+        "aboutdisc2": "Raziščite Adhkar zdaj"
+      },
+      "contact": {
+        "Contacttitl": "Kontakt",
+        "Contactdis": "Nas",
+        "CardTitle": "Kontaktirajte nas",
+        "CardDescription": "Tukaj smo, da pomagamo. Pošljite nam sporočilo in odgovorili bomo čim prej.",
+        "name": "Ime",
+        "email": "E-pošta",
+        "message": "Vaše sporočilo",
+        "submit": "Pošlji"
+      },
+      "Navbar": {
+        "HomePage": "Domov",
+        "morning-eveningpage": "Jutro in Večer Adhkar",
+        "sleeppage": "Spanje Adhkar",
+        "aboutpage": "O Nas",
+        "contactPage": "Kontaktirajte nas"
+      },
+      "Footer": {
+        "copyright": "Vse pravice pridržane",
+        "MessageCircle": "WhatsApp",
+        "Facebook": "Facebook",
+        "Instagram": "Instagram",
+        "Send": "Telegram",
+        "Twitter": "Twitter"
+      },
+      "languages": {
+        "AR": "Arabščina",
+        "EN": "Angleščina",
+        "FR": "Francoščina"
+      },
+      "categories": {
+        "morning": "Jutro in Večer Adhkar",
+        "slep": "Spanje Adhkar"
+      },
+      "Buton": {
+        "dawn": "Prenesi",
+        "red": "Preberi",
+        "mor": "Izvedi več"
+      }
+      }
+      
+  

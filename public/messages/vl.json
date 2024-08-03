@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Azkar Hồi giáo Chính xác",
+      "Titledisc": "Được dịch sang hai mươi ngôn ngữ ngoài tiếng Ả Rập. Bản dịch được thực hiện bằng cách tham khảo các nguồn Hồi giáo được dịch sang các ngôn ngữ này. Chúng tôi đã nỗ lực hết mình để hoàn thiện các bản dịch và vì công việc của con người có thể không hoàn hảo, đặc biệt là các phông chữ máy tính có thể không phục vụ được 100%, chúng tôi rất mong nhận được phản hồi về bản dịch gửi đến ID Telegram đính kèm. Chia sẻ phần thưởng và đừng giữ lại bất kỳ quan sát nào của bạn từ các anh em Hồi giáo trên toàn thế giới để cải thiện bản dịch.",
+      "TitleHomePage": "Được dịch sang hai mươi ngôn ngữ ngoài tiếng Ả Rập. Bản dịch được thực hiện bằng cách tham khảo các nguồn Hồi giáo được dịch sang các ngôn ngữ này. Chúng tôi đã nỗ lực hết mình để hoàn thiện các bản dịch và vì công việc của con người có thể không hoàn hảo, đặc biệt là các phông chữ máy tính có thể không phục vụ được 100%, chúng tôi rất mong nhận được phản hồi về bản dịch gửi đến ID Telegram đính kèm. Chia sẻ phần thưởng và đừng giữ lại bất kỳ quan sát nào của bạn từ các anh em Hồi giáo trên toàn thế giới để cải thiện bản dịch.",
+      "app": "Tải ứng dụng Azkar",
+      "categorieserorr": "Danh mục không khả dụng.",
+      "categoriestitl": "Danh mục",
+      "categoriesdis": "Có sẵn",
+      "contact": "Liên hệ với chúng tôi"
+    },
+    "morning-evening": {
+      "morningtitl": "Azkar Chính xác",
+      "morningdis": "Sáng và Tối"
+    },
+    "sleep": {
+      "sleeptitl": "Azkar Chính xác",
+      "sleepdis": "Ngủ"
+    },
+    "rbet": {
+      "num": "Số lần lặp lại"
+    },
+    "about": {
+      "aboutimg": "Thật vậy, bằng cách nhớ đến Allah, trái tim trở nên thanh thản",
+      "aboutmasige": "Sứ mệnh của chúng tôi",
+      "aboutmasigefoll": "Chúng tôi hướng đến việc giúp người Hồi giáo trên toàn thế giới dễ dàng truy cập vào azkar hàng ngày bằng ngôn ngữ mẹ đẻ của họ, trong khi duy trì độ chính xác của ý nghĩa và tinh thần của văn bản gốc.",
+      "aboutm": "Đặc điểm của chúng tôi",
+      "aboutli1": "Azkar được dịch sang nhiều ngôn ngữ",
+      "aboutli2": "Ứng dụng điện thoại thông minh thân thiện với người dùng",
+      "aboutli3": "Khả năng nghe âm thanh azkar",
+      "aboutli4": "Nhắc nhở azkar hàng ngày",
+      "aboutlang": "Ngôn ngữ có sẵn",
+      "aboutapp": "Tải ứng dụng của chúng tôi",
+      "aboutappdisc": "Tải ứng dụng Azkar lên điện thoại của bạn để truy cập nhanh chóng bất cứ lúc nào và ở bất cứ đâu.",
+      "aboutappandr": "Tải cho Android",
+      "aboutappaple": "Tải cho iPhone",
+      "aboutcotshintitle": "Azkar được chọn như thế nào?",
+      "aboutcotshindesc": "Chúng tôi dựa vào các nguồn đáng tin cậy và các cuốn sách hadith chính xác khi chọn azkar, với sự xem xét của các học giả chuyên ngành.",
+      "aboutcotshin1": "Ứng dụng có miễn phí không?",
+      "aboutcotshin11": "Có, ứng dụng hoàn toàn miễn phí và có sẵn cho tất cả mọi người. Chúng tôi hướng đến việc phổ biến điều tốt mà không có chi phí.",
+      "aboutcotshin2": "Làm thế nào tôi có thể đóng góp vào việc dịch thuật?",
+      "aboutcotshin22": "Chúng tôi hoan nghênh các đóng góp vào việc dịch thuật. Bạn có thể liên hệ với chúng tôi qua trang Liên hệ để biết thêm thông tin về cách tham gia.",
+      "aboutcall": "Tham gia vào việc phổ biến điều tốt",
+      "aboutdisc": "Giúp chúng tôi phổ biến azkar và nhắc nhở người khác về lợi ích của việc nhớ đến Allah.",
+      "aboutdisc2": "Khám phá Azkar ngay bây giờ"
+    },
+    "contact": {
+      "Contacttitl": "Liên hệ",
+      "Contactdis": "với chúng tôi",
+      "CardTitle": "Liên hệ với chúng tôi",
+      "CardDescription": "Chúng tôi ở đây để giúp đỡ. Gửi tin nhắn cho chúng tôi và chúng tôi sẽ phản hồi sớm nhất có thể.",
+      "name": "Tên",
+      "email": "Email",
+      "message": "Tin nhắn của bạn",
+      "submit": "Gửi"
+    },
+    "Navbar": {
+      "HomePage": "Trang chủ",
+      "morning-eveningpage": "Azkar Sáng và Tối",
+      "sleeppage": "Azkar Ngủ",
+      "aboutpage": "Về chúng tôi",
+      "contactPage": "Liên hệ với chúng tôi"
+    },
+    "Footer": {
+      "copyright": "Bản quyền thuộc về",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Ả Rập",
+      "EN": "Tiếng Anh",
+      "FR": "Tiếng Pháp"
+    },
+    "categories": {
+      "morning": "Azkar Sáng và Tối",
+      "slep": "Azkar Ngủ"
+    },
+    "Buton": {
+      "dawn": "Tải về",
+      "red": "Đọc",
+      "mor": "Tìm hiểu thêm"
+    }
+  }
+  

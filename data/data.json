@@ -1,0 +1,87 @@
+{
+  "languages": [
+    {
+      "id": "1720020364973",
+      "name": "العربية",
+      "code": "AR"
+    },
+    {
+      "id": "1720023040264",
+      "name": "الإنجليزية",
+      "code": "EN"
+    },
+    {
+      "id": "1720023075898",
+      "name": "الفرنسية",
+      "code": "FR"
+    }
+  ],
+  "categories": [
+    {
+      "name": "أذكار الصباح والمساء",
+      "description": "اذكار الصباح والمساء",
+      "image": "/uploads/1721165042138-—Pngtree—sunset_829600.png",
+      "id": "1721003268095",
+      "link": "/morning-evening"
+    },
+    {
+      "name": "أذكار النوم",
+      "description": "أذكار النوم",
+      "image": "/uploads/1721165321107-—Pngtree—sleeping emoji png_7965690.png",
+      "id": "1721003290456",
+      "link": "/sleep"
+    },
+    {
+      "name": "الا",
+      "description": "2ثصق",
+      "image": "/uploads/1721430321768-png-transparent-seaside-sunrise-logo-thumbnail.png",
+      "id": "1721430321772"
+    }
+  ],
+  "pdfFiles": [
+    {
+      "id": "4333cd60-110a-4d98-9cb1-bd057e936159",
+      "name": "OMPDF (3)",
+      "language": "1720020364973",
+      "category": "1721003268095",
+      "url": "/pdfs/1721003779323-OMPDF (3).pdf",
+      "imageUrl": "/images/thumbnails/1721003779329-علم السعودية.png"
+    },
+    {
+      "id": "ff391451-0ac8-418f-97de-6f89796aaed0",
+      "name": "OMPDF (3)",
+      "language": "1720020364973",
+      "category": "1721003290456",
+      "url": "/pdfs/1721003798849-OMPDF (3).pdf",
+      "imageUrl": "/images/thumbnails/1721003798852-علم السعودية.png"
+    }
+  ],
+  "dhikrs": [
+    {
+      "id": "1721430510497",
+      "text": "نعفتىعقغ",
+      "categoryId": "1721003268095",
+      "languageId": "1720020364973",
+      "repetitions": 2
+    },
+    {
+      "id": "1721430524039",
+      "text": "فقسلاسلق",
+      "categoryId": "1721003268095",
+      "languageId": "1720023040264",
+      "repetitions": 1
+    }
+  ],
+  
+    "users": [
+      {
+        "name" : "يوسف محمد ",
+        "username": "user1",
+        "password": "pass1"
+      }
+    ],
+    "otherData": {
+      "message": "هذه بيانات إضافية يمكن استخدامها لأغراض أخرى"
+    }
+  
+}

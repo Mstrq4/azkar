@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Azkar Muslim Autentik",
+      "Titledisc": "Diterjemahkan ke dalam dua puluh bahasa selain Arab. Terjemahan dilakukan dengan mengacu pada sumber-sumber Islam yang diterjemahkan ke dalam bahasa-bahasa ini. Kami telah berupaya keras untuk menyempurnakan terjemahan, dan karena pekerjaan manusia tidak luput dari ketidaksempurnaan, terutama karena font komputer mungkin tidak sepenuhnya sesuai, kami dengan hormat meminta umpan balik mengenai terjemahan untuk dikirim ke ID Telegram yang terlampir. Bagikan pahala dan jangan tahan dari saudara Muslim Anda di seluruh dunia setiap pengamatan yang memperbaiki terjemahan.",
+      "TitleHomePage": "Diterjemahkan ke dalam dua puluh bahasa selain Arab. Terjemahan dilakukan dengan mengacu pada sumber-sumber Islam yang diterjemahkan ke dalam bahasa-bahasa ini. Kami telah berupaya keras untuk menyempurnakan terjemahan, dan karena pekerjaan manusia tidak luput dari ketidaksempurnaan, terutama karena font komputer mungkin tidak sepenuhnya sesuai, kami dengan hormat meminta umpan balik mengenai terjemahan untuk dikirim ke ID Telegram yang terlampir. Bagikan pahala dan jangan tahan dari saudara Muslim Anda di seluruh dunia setiap pengamatan yang memperbaiki terjemahan.",
+      "app": "Unduh Aplikasi Azkar",
+      "categorieserorr": "Kategori tidak tersedia.",
+      "categoriestitl": "Kategori",
+      "categoriesdis": "Tersedia",
+      "contact": "Hubungi Kami"
+    },
+    "morning-evening": {
+      "morningtitl": "Azkar Autentik",
+      "morningdis": "Pagi dan Petang"
+    },
+    "sleep": {
+      "sleeptitl": "Azkar Autentik",
+      "sleepdis": "Tidur"
+    },
+    "rbet": {
+      "num": "Jumlah pengulangan"
+    },
+    "about": {
+      "aboutimg": "Sesungguhnya, dengan mengingat Allah hati menjadi tenang",
+      "aboutmasige": "Misi Kami",
+      "aboutmasigefoll": "Kami berusaha memudahkan akses bagi Muslim di seluruh dunia untuk azkar harian dalam bahasa asli mereka, sambil mempertahankan akurasi makna dan semangat teks asli.",
+      "aboutm": "Fitur Kami",
+      "aboutli1": "Azkar diterjemahkan ke berbagai bahasa",
+      "aboutli2": "Aplikasi smartphone yang mudah digunakan",
+      "aboutli3": "Kemampuan untuk mendengarkan audio azkar",
+      "aboutli4": "Pengingat harian untuk azkar",
+      "aboutlang": "Bahasa yang Tersedia",
+      "aboutapp": "Unduh Aplikasi Kami",
+      "aboutappdisc": "Dapatkan aplikasi Azkar di ponsel Anda untuk akses cepat kapan saja, di mana saja.",
+      "aboutappandr": "Unduh untuk Android",
+      "aboutappaple": "Unduh untuk iPhone",
+      "aboutcotshintitle": "Bagaimana azkar dipilih?",
+      "aboutcotshindesc": "Kami mengandalkan sumber terpercaya dan buku hadis otentik dalam memilih azkar, dengan tinjauan oleh para ulama khusus.",
+      "aboutcotshin1": "Apakah aplikasi ini gratis?",
+      "aboutcotshin11": "Ya, aplikasi ini sepenuhnya gratis dan tersedia untuk semua orang. Kami berusaha menyebarkan kebaikan tanpa biaya.",
+      "aboutcotshin2": "Bagaimana saya bisa berkontribusi dalam terjemahan?",
+      "aboutcotshin22": "Kami menyambut kontribusi dalam terjemahan. Anda dapat menghubungi kami melalui halaman Hubungi Kami untuk informasi lebih lanjut tentang cara berpartisipasi.",
+      "aboutcall": "Bergabung dalam Menyebarkan Kebaikan",
+      "aboutdisc": "Bantu kami menyebarkan azkar dan mengingatkan orang lain akan kebajikan mengingat Allah.",
+      "aboutdisc2": "Jelajahi Azkar Sekarang"
+    },
+    "contact": {
+      "Contacttitl": "Hubungi",
+      "Contactdis": "Kami",
+      "CardTitle": "Hubungi Kami",
+      "CardDescription": "Kami di sini untuk membantu. Kirimkan pesan kepada kami dan kami akan merespons sesegera mungkin.",
+      "name": "Nama",
+      "email": "Email",
+      "message": "Pesan Anda",
+      "submit": "Kirim"
+    },
+    "Navbar": {
+      "HomePage": "Halaman Utama",
+      "morning-eveningpage": "Azkar Pagi dan Petang",
+      "sleeppage": "Azkar Tidur",
+      "aboutpage": "Tentang Kami",
+      "contactPage": "Hubungi Kami"
+    },
+    "Footer": {
+      "copyright": "Hak cipta dilindungi undang-undang",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arab",
+      "EN": "Inggris",
+      "FR": "Perancis"
+    },
+    "categories": {
+      "morning": "Azkar Pagi dan Petang",
+      "slep": "Azkar Tidur"
+    },
+    "Buton": {
+      "dawn": "Unduh",
+      "red": "Baca",
+      "mor": "Pelajari Lebih Lanjut"
+    }
+  }
+  

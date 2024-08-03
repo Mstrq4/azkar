@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Autentiska muslimska Adhkar",
+      "Titledisc": "Översatt till tjugo språk förutom arabiska. Översättningen har gjorts genom att hänvisa till islamiska källor översatta till dessa språk. Vi har gjort vårt yttersta för att fullända översättningarna, och eftersom mänskligt arbete är föremål för ofullkomlighet, särskilt eftersom datorfonter kanske inte tjänar syftet 100 %, ber vi vänligen om feedback angående översättningen som skickas till den bifogade Telegram-ID. Dela belöningen och håll inte tillbaka någon observation som kan förbättra översättningen från dina muslimska bröder runt om i världen.",
+      "TitleHomePage": "Översatt till tjugo språk förutom arabiska. Översättningen har gjorts genom att hänvisa till islamiska källor översatta till dessa språk. Vi har gjort vårt yttersta för att fullända översättningarna, och eftersom mänskligt arbete är föremål för ofullkomlighet, särskilt eftersom datorfonter kanske inte tjänar syftet 100 %, ber vi vänligen om feedback angående översättningen som skickas till den bifogade Telegram-ID. Dela belöningen och håll inte tillbaka någon observation som kan förbättra översättningen från dina muslimska bröder runt om i världen.",
+      "app": "Ladda ner Adhkar-appen",
+      "categorieserorr": "Inga kategorier tillgängliga.",
+      "categoriestitl": "Kategorier",
+      "categoriesdis": "Tillgänglig",
+      "contact": "Kontakta oss"
+    },
+    "morning-evening": {
+      "morningtitl": "Autentiska Adhkar",
+      "morningdis": "Morgon och Kväll"
+    },
+    "sleep": {
+      "sleeptitl": "Autentiska Adhkar",
+      "sleepdis": "Sömn"
+    },
+    "rbet": {
+      "num": "Antal upprepningar"
+    },
+    "about": {
+      "aboutimg": "Sannerligen, i minnet av Allah finner hjärtan ro",
+      "aboutmasige": "Vårt Uppdrag",
+      "aboutmasigefoll": "Vi strävar efter att underlätta tillgången för muslimer runt om i världen till dagliga adhkar på deras modersmål, samtidigt som vi upprätthåller noggrannheten i betydelserna och andan i de ursprungliga texterna.",
+      "aboutm": "Våra Funktioner",
+      "aboutli1": "Adhkar översatt till flera språk",
+      "aboutli2": "Användarvänlig smartphoneapplikation",
+      "aboutli3": "Möjlighet att lyssna på adhkar-ljud",
+      "aboutli4": "Dagliga påminnelser för adhkar",
+      "aboutlang": "Tillgängliga Språk",
+      "aboutapp": "Ladda ner vår app",
+      "aboutappdisc": "Få Adhkar-appen på din telefon för snabb åtkomst när som helst, var som helst.",
+      "aboutappandr": "Ladda ner för Android",
+      "aboutappaple": "Ladda ner för iPhone",
+      "aboutcotshintitle": "Hur väljs adhkar?",
+      "aboutcotshindesc": "Vi förlitar oss på pålitliga källor och autentiska hadith-böcker vid val av adhkar, med granskning av specialiserade forskare.",
+      "aboutcotshin1": "Är appen gratis?",
+      "aboutcotshin11": "Ja, appen är helt gratis och tillgänglig för alla. Vi strävar efter att sprida godhet utan kostnad.",
+      "aboutcotshin2": "Hur kan jag bidra till översättningen?",
+      "aboutcotshin22": "Vi välkomnar bidrag till översättningen. Du kan kontakta oss via Kontakta oss-sidan för mer information om hur du kan delta.",
+      "aboutcall": "Delta i att sprida godhet",
+      "aboutdisc": "Hjälp oss sprida adhkar och påminna andra om värdet av att minnas Allah.",
+      "aboutdisc2": "Utforska Adhkar nu"
+    },
+    "contact": {
+      "Contacttitl": "Kontakta",
+      "Contactdis": "Oss",
+      "CardTitle": "Kontakta oss",
+      "CardDescription": "Vi är här för att hjälpa till. Skicka oss ett meddelande så svarar vi så snart som möjligt.",
+      "name": "Namn",
+      "email": "E-post",
+      "message": "Ditt meddelande",
+      "submit": "Skicka"
+    },
+    "Navbar": {
+      "HomePage": "Hemsida",
+      "morning-eveningpage": "Morgon och Kväll Adhkar",
+      "sleeppage": "Sömn Adhkar",
+      "aboutpage": "Om Oss",
+      "contactPage": "Kontakta oss"
+    },
+    "Footer": {
+      "copyright": "Alla rättigheter förbehållna",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arabiska",
+      "EN": "Engelska",
+      "FR": "Franska"
+    },
+    "categories": {
+      "morning": "Morgon och Kväll Adhkar",
+      "slep": "Sömn Adhkar"
+    },
+    "Buton": {
+      "dawn": "Ladda ner",
+      "red": "Läs",
+      "mor": "Läs Mer"
+    }
+  }
+  

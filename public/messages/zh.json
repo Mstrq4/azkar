@@ -1,0 +1,87 @@
+{
+  "Home": {
+    "Title": "真实的穆斯林祈祷词",
+    "Titledisc": "翻译成除阿拉伯语外的二十种语言。翻译参考了这些语言中已翻译的伊斯兰来源。我们尽了最大努力完善翻译，由于人工作业受制于不完美性，特别是计算机字体无法100%满足目的，我们请求将有关翻译的反馈发送到附加的Telegram ID。分享奖励，不要对世界各地的穆斯林兄弟隐瞒任何改进翻译的评论。",
+    "TitleHomePage": "翻译成除阿拉伯语外的二十种语言。翻译参考了这些语言中已翻译的伊斯兰来源。我们尽了最大努力完善翻译，由于人工作业受制于不完美性，特别是计算机字体无法100%满足目的，我们请求将有关翻译的反馈发送到附加的Telegram ID。分享奖励，不要对世界各地的穆斯林兄弟隐瞒任何改进翻译的评论。",
+    "app": "下载祈祷词应用",
+    "categorieserorr": "没有可用的类别。",
+    "categoriestitl": "类别",
+    "categoriesdis": "可用",
+    "contact": "联系我们"
+  },
+  "morning-evening": {
+    "morningtitl": "真实的祈祷词",
+    "morningdis": "早晨和晚上"
+  },
+  "sleep": {
+    "sleeptitl": "真实的祈祷词",
+    "sleepdis": "睡眠"
+  },
+  "rbet": {
+    "num": "重复次数"
+  },
+  "about": {
+    "aboutimg": "的确，在记念真主中，心灵才能得到安宁",
+    "aboutmasige": "我们的使命",
+    "aboutmasigefoll": "我们致力于为全世界的穆斯林提供他们母语的日常祈祷词，同时保持原文的准确性和精神。",
+    "aboutm": "我们的特点",
+    "aboutli1": "多种语言翻译的祈祷词",
+    "aboutli2": "用户友好的智能手机应用",
+    "aboutli3": "能够收听祈祷词音频",
+    "aboutli4": "每日祈祷词提醒",
+    "aboutlang": "可用语言",
+    "aboutapp": "下载我们的应用",
+    "aboutappdisc": "在您的手机上获取祈祷词应用，随时随地快速访问。",
+    "aboutappandr": "下载安卓版",
+    "aboutappaple": "下载iPhone版",
+    "aboutcotshintitle": "如何选择祈祷词？",
+    "aboutcotshindesc": "我们在选择祈祷词时依赖可靠的来源和真实的圣训书籍，并由专家学者审核。",
+    "aboutcotshin1": "应用是免费的吗？",
+    "aboutcotshin11": "是的，应用完全免费，对所有人开放。我们的目标是免费传播善行。",
+    "aboutcotshin2": "我如何为翻译做出贡献？",
+    "aboutcotshin22": "我们欢迎对翻译的贡献。您可以通过我们的联系页面与我们联系，了解更多关于如何参与的信息。",
+    "aboutcall": "参与传播善行",
+    "aboutdisc": "帮助我们传播祈祷词，提醒他人记念真主的回报。",
+    "aboutdisc2": "现在探索祈祷词"
+  },
+  "contact": {
+    "Contacttitl": "联系",
+    "Contactdis": "我们",
+    "CardTitle": "联系我们",
+    "CardDescription": "我们在这里为您提供帮助。给我们发送消息，我们会尽快回复。",
+    "name": "姓名",
+    "email": "电子邮件",
+    "message": "您的消息",
+    "submit": "发送"
+  },
+  "Navbar": {
+    "HomePage": "主页",
+    "morning-eveningpage": "早晨和晚上的祈祷词",
+    "sleeppage": "睡眠的祈祷词",
+    "aboutpage": "关于我们",
+    "contactPage": "联系我们"
+  },
+  "Footer": {
+    "copyright": "版权所有",
+    "MessageCircle": "WhatsApp",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram",
+    "Send": "Telegram",
+    "Twitter": "Twitter"
+  },
+  "languages": {
+    "AR": "阿拉伯语",
+    "EN": "英语",
+    "FR": "法语",
+    "ZH": "中文"
+  },
+  "categories": {
+    "morning": "早晨和晚上的祈祷词",
+    "slep": "睡眠的祈祷词"
+  },
+  "Buton": {
+    "dawn": "下载",
+    "red": "阅读",
+    "mor": "了解更多"
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "Home": {
+      "Title": "Autênticos Adhkar Muçulmanos",
+      "Titledisc": "Traduzido para vinte idiomas além do árabe",
+      "app": "Baixar o aplicativo Adhkar",
+      "categorieserorr": "Nenhuma categoria disponível.",
+      "categoriestitl": "Categorias",
+      "categoriesdis": "Disponíveis",
+      "contact": "Contate-nos"
+    },
+    "morning-evening": {
+      "morningtitl": "Autênticos Adhkar",
+      "morningdis": "Manhã e Noite"
+    },
+    "sleep": {
+      "sleeptitl": "Autênticos Adhkar",
+      "sleepdis": "Sono"
+    },
+    "Navbar": {
+      "HomePage": "Página Inicial",
+      "morning-eveningpage": "Adhkar da Manhã e da Noite",
+      "sleeppage": "Adhkar do Sono",
+      "aboutpage": "Sobre Nós",
+      "contactPage": "Contate-nos"
+    },
+    "languages": {
+      "AR": "Árabe",
+      "EN": "Inglês",
+      "FR": "Francês",
+      "PT": "Português"
+    },
+    "Buton": {
+      "dawn": "Baixar",
+      "red": "Ler",
+      "mor": "Saiba Mais"
+    }
+  }

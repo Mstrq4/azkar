@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Adhkar Musulman Autentic",
+      "Titledisc": "Tradus în douăzeci de limbi, în afară de arabă. Traducerea a fost realizată făcând referire la surse islamice traduse în aceste limbi. Am depus toate eforturile pentru a perfecționa traducerile și, deoarece munca umană este supusă imperfecțiunilor, mai ales că fonturile computerului s-ar putea să nu servească scopului 100%, vă rugăm cu amabilitate să trimiteți feedback cu privire la traducere la ID-ul Telegram atașat. Împărtășiți recompensa și nu ascundeți nici o observație care ar putea îmbunătăți traducerea fraților voștri musulmani din întreaga lume.",
+      "TitleHomePage": "Tradus în douăzeci de limbi, în afară de arabă. Traducerea a fost realizată făcând referire la surse islamice traduse în aceste limbi. Am depus toate eforturile pentru a perfecționa traducerile și, deoarece munca umană este supusă imperfecțiunilor, mai ales că fonturile computerului s-ar putea să nu servească scopului 100%, vă rugăm cu amabilitate să trimiteți feedback cu privire la traducere la ID-ul Telegram atașat. Împărtășiți recompensa și nu ascundeți nici o observație care ar putea îmbunătăți traducerea fraților voștri musulmani din întreaga lume.",
+      "app": "Descarcă aplicația Adhkar",
+      "categorieserorr": "Nu există categorii disponibile.",
+      "categoriestitl": "Categorii",
+      "categoriesdis": "Disponibile",
+      "contact": "Contactează-ne"
+    },
+    "morning-evening": {
+      "morningtitl": "Adhkar Autentice",
+      "morningdis": "Dimineață și Seară"
+    },
+    "sleep": {
+      "sleeptitl": "Adhkar Autentice",
+      "sleepdis": "Somn"
+    },
+    "rbet": {
+      "num": "Numărul de repetări"
+    },
+    "about": {
+      "aboutimg": "Cu adevărat, în pomenirea lui Allah inimile găsesc liniște",
+      "aboutmasige": "Misiunea Noastră",
+      "aboutmasigefoll": "Ne străduim să facilităm accesul musulmanilor din întreaga lume la adhkar zilnic în limba lor maternă, menținând în același timp acuratețea semnificațiilor și spiritul textelor originale.",
+      "aboutm": "Caracteristicile Noastre",
+      "aboutli1": "Adhkar tradus în mai multe limbi",
+      "aboutli2": "Aplicație smartphone ușor de utilizat",
+      "aboutli3": "Posibilitatea de a asculta sunete adhkar",
+      "aboutli4": "Memento-uri zilnice pentru adhkar",
+      "aboutlang": "Limbi Disponibile",
+      "aboutapp": "Descarcă aplicația noastră",
+      "aboutappdisc": "Obține aplicația Adhkar pe telefonul tău pentru acces rapid oricând, oriunde.",
+      "aboutappandr": "Descarcă pentru Android",
+      "aboutappaple": "Descarcă pentru iPhone",
+      "aboutcotshintitle": "Cum sunt selectate adhkar-urile?",
+      "aboutcotshindesc": "Ne bazăm pe surse de încredere și cărți autentice de hadith în selectarea adhkar-urilor, cu revizuire din partea savanților specializați.",
+      "aboutcotshin1": "Este aplicația gratuită?",
+      "aboutcotshin11": "Da, aplicația este complet gratuită și accesibilă tuturor. Ne dorim să răspândim bunătatea fără costuri.",
+      "aboutcotshin2": "Cum pot contribui la traducere?",
+      "aboutcotshin22": "Primim cu plăcere contribuții la traducere. Ne puteți contacta prin pagina Contactați-ne pentru mai multe informații despre cum puteți participa.",
+      "aboutcall": "Participați la răspândirea bunătății",
+      "aboutdisc": "Ajutați-ne să răspândim adhkar și să reamintim altora valoarea pomenirii lui Allah.",
+      "aboutdisc2": "Explorați Adhkar acum"
+    },
+    "contact": {
+      "Contacttitl": "Contact",
+      "Contactdis": "Ne",
+      "CardTitle": "Contactați-ne",
+      "CardDescription": "Suntem aici pentru a ajuta. Trimiteți-ne un mesaj și vă vom răspunde cât mai curând posibil.",
+      "name": "Nume",
+      "email": "Email",
+      "message": "Mesajul tău",
+      "submit": "Trimite"
+    },
+    "Navbar": {
+      "HomePage": "Acasă",
+      "morning-eveningpage": "Adhkar de Dimineață și Seară",
+      "sleeppage": "Adhkar de Somn",
+      "aboutpage": "Despre Noi",
+      "contactPage": "Contactați-ne"
+    },
+    "Footer": {
+      "copyright": "Toate drepturile rezervate",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arabă",
+      "EN": "Engleză",
+      "FR": "Franceză"
+    },
+    "categories": {
+      "morning": "Adhkar de Dimineață și Seară",
+      "slep": "Adhkar de Somn"
+    },
+    "Buton": {
+      "dawn": "Descarcă",
+      "red": "Citește",
+      "mor": "Află mai multe"
+    }
+  }
+  

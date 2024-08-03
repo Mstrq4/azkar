@@ -1,0 +1,37 @@
+{
+    "Home": {
+      "Title": "اذکار صحیح مسلمان",
+      "Titledisc": "ترجمه شده به بیست زبان غیر از عربی",
+      "app": "دانلود اپلیکیشن اذکار",
+      "categorieserorr": "هیچ دسته‌بندی در دسترس نیست.",
+      "categoriestitl": "دسته‌بندی‌ها",
+      "categoriesdis": "در دسترس",
+      "contact": "تماس با ما"
+    },
+    "morning-evening": {
+      "morningtitl": "اذکار صحیح",
+      "morningdis": "صبح و عصر"
+    },
+    "sleep": {
+      "sleeptitl": "اذکار صحیح",
+      "sleepdis": "خواب"
+    },
+    "Navbar": {
+      "HomePage": "صفحه اصلی",
+      "morning-eveningpage": "اذکار صبح و عصر",
+      "sleeppage": "اذکار خواب",
+      "aboutpage": "درباره ما",
+      "contactPage": "تماس با ما"
+    },
+    "languages": {
+      "AR": "عربی",
+      "EN": "انگلیسی",
+      "FR": "فرانسوی",
+      "FA": "فارسی"
+    },
+    "Buton": {
+      "dawn": "دانلود",
+      "red": "خواندن",
+      "mor": "بیشتر بدانید"
+    }
+  }

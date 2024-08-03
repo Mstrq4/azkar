@@ -1,0 +1,88 @@
+{
+    "CN": {
+      "Home": {
+        "Title": "真实的穆斯林记念",
+        "Titledisc": "除阿拉伯语外，还翻译成二十种语言。翻译是使用这些语言的伊斯兰来源完成的。我们努力完善翻译，由于人类工作受制于不完美，特别是计算机字体可能无法100%满足目的，我们谦卑地要求通过附加的电报ID发送有关翻译的反馈。分享奖励，不要隐藏任何可以改进翻译的观察，造福全世界的穆斯林兄弟。",
+        "TitleHomePage": "除阿拉伯语外，还翻译成二十种语言。翻译是使用这些语言的伊斯兰来源完成的。我们努力完善翻译，由于人类工作受制于不完美，特别是计算机字体可能无法100%满足目的，我们谦卑地要求通过附加的电报ID发送有关翻译的反馈。分享奖励，不要隐藏任何可以改进翻译的观察，造福全世界的穆斯林兄弟。",
+        "app": "下载记念应用",
+        "categorieserorr": "没有可用的类别。",
+        "categoriestitl": "类别",
+        "categoriesdis": "可用",
+        "contact": "联系我们"
+      },
+      "morning-evening": {
+        "morningtitl": "真实的记念",
+        "morningdis": "早晚"
+      },
+      "sleep": {
+        "sleeptitl": "真实的记念",
+        "sleepdis": "睡眠"
+      },
+      "rbet": {
+        "num": "重复次数"
+      },
+      "about": {
+        "aboutimg": "的确，心灵因记念真主而安宁",
+        "aboutmasige": "我们的使命",
+        "aboutmasigefoll": "我们致力于让全世界的穆斯林能够轻松地用他们的母语获取日常记念，同时保留原文的意义和精神。",
+        "aboutm": "我们的特点",
+        "aboutli1": "多语言翻译的记念",
+        "aboutli2": "易于使用的智能手机应用",
+        "aboutli3": "能够听音频记念",
+        "aboutli4": "每日记念提醒",
+        "aboutlang": "可用语言",
+        "aboutapp": "下载我们的应用",
+        "aboutappdisc": "随时随地快速访问，在您的手机上获取记念应用。",
+        "aboutappandr": "安卓下载",
+        "aboutappaple": "iPhone下载",
+        "aboutcotshintitle": "记念是如何选择的？",
+        "aboutcotshindesc": "我们在选择记念时依赖可靠的来源和真实的圣训集，包括专家学者的审查。",
+        "aboutcotshin1": "应用是免费的吗？",
+        "aboutcotshin11": "是的，应用完全免费，对所有人开放。我们的目标是免费传播善行。",
+        "aboutcotshin2": "我如何为翻译做出贡献？",
+        "aboutcotshin22": "我们欢迎翻译贡献。您可以通过我们的联系页面与我们联系，了解如何参与的更多信息。",
+        "aboutcall": "参与传播善行",
+        "aboutdisc": "帮助我们传播记念，提醒他人记念真主的价值。",
+        "aboutdisc2": "立即探索记念"
+      },
+      "contact": {
+        "Contacttitl": "联系",
+        "Contactdis": "我们",
+        "CardTitle": "联系我们",
+        "CardDescription": "我们在这里为您提供帮助。给我们发送一条消息，我们会尽快回复。",
+        "name": "姓名",
+        "email": "电子邮件",
+        "message": "您的消息",
+        "submit": "提交"
+      },
+      "Navbar": {
+        "HomePage": "主页",
+        "morning-eveningpage": "早晚记念",
+        "sleeppage": "睡眠记念",
+        "aboutpage": "关于",
+        "contactPage": "联系我们"
+      },
+      "Footer": {
+        "copyright": "版权所有",
+        "MessageCircle": "WhatsApp",
+        "Facebook": "Facebook",
+        "Instagram": "Instagram",
+        "Send": "Telegram",
+        "Twitter": "Twitter"
+      },
+      "languages": {
+        "AR": "阿拉伯语",
+        "EN": "英语",
+        "FR": "法语"
+      },
+      "categories": {
+        "morning": "早晚记念",
+        "slep": "睡眠记念"
+      },
+      "Buton": {
+        "dawn": "下载",
+        "red": "阅读",
+        "mor": "了解更多"
+      }
+    }
+  }

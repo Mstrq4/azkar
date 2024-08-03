@@ -1,0 +1,88 @@
+{
+    "ES": {
+      "Home": {
+        "Title": "Auténticos Adhkar Musulmanes",
+        "Titledisc": "Traducido a veinte idiomas además del árabe. La traducción se realizó consultando fuentes islámicas traducidas a estos idiomas. Hemos hecho todo lo posible para perfeccionar las traducciones, y dado que el trabajo humano está sujeto a imperfecciones, especialmente porque las fuentes de computadora pueden no servir al propósito al 100%, solicitamos amablemente comentarios sobre la traducción para enviarlos al ID de Telegram adjunto. Comparte la recompensa y no ocultes a tus hermanos musulmanes de todo el mundo ninguna observación que mejore la traducción.",
+        "TitleHomePage": "Traducido a veinte idiomas además del árabe. La traducción se realizó consultando fuentes islámicas traducidas a estos idiomas. Hemos hecho todo lo posible para perfeccionar las traducciones, y dado que el trabajo humano está sujeto a imperfecciones, especialmente porque las fuentes de computadora pueden no servir al propósito al 100%, solicitamos amablemente comentarios sobre la traducción para enviarlos al ID de Telegram adjunto. Comparte la recompensa y no ocultes a tus hermanos musulmanes de todo el mundo ninguna observación que mejore la traducción.",
+        "app": "Descargar la aplicación Adhkar",
+        "categorieserorr": "No hay categorías disponibles.",
+        "categoriestitl": "Categorías",
+        "categoriesdis": "Disponible",
+        "contact": "Contáctenos"
+      },
+      "morning-evening": {
+        "morningtitl": "Adhkar Auténticos",
+        "morningdis": "Mañana y Tarde"
+      },
+      "sleep": {
+        "sleeptitl": "Adhkar Auténticos",
+        "sleepdis": "Sueño"
+      },
+      "rbet": {
+        "num": "Número de repeticiones"
+      },
+      "about": {
+        "aboutimg": "En verdad, en el recuerdo de Allah los corazones encuentran descanso",
+        "aboutmasige": "Nuestra Misión",
+        "aboutmasigefoll": "Nos esforzamos por facilitar el acceso de los musulmanes de todo el mundo a los adhkar diarios en sus idiomas nativos, manteniendo la precisión de los significados y el espíritu de los textos originales.",
+        "aboutm": "Nuestras Características",
+        "aboutli1": "Adhkar traducidos a múltiples idiomas",
+        "aboutli2": "Aplicación para smartphone fácil de usar",
+        "aboutli3": "Capacidad de escuchar audio de adhkar",
+        "aboutli4": "Recordatorios diarios para adhkar",
+        "aboutlang": "Idiomas Disponibles",
+        "aboutapp": "Descarga Nuestra Aplicación",
+        "aboutappdisc": "Obtén la aplicación Adhkar en tu teléfono para un acceso rápido en cualquier momento y lugar.",
+        "aboutappandr": "Descargar para Android",
+        "aboutappaple": "Descargar para iPhone",
+        "aboutcotshintitle": "¿Cómo se seleccionan los adhkar?",
+        "aboutcotshindesc": "Nos basamos en fuentes confiables y libros de hadices auténticos para seleccionar adhkar, con revisión de eruditos especializados.",
+        "aboutcotshin1": "¿La aplicación es gratuita?",
+        "aboutcotshin11": "Sí, la aplicación es completamente gratuita y está disponible para todos. Nuestro objetivo es difundir la bondad sin costo.",
+        "aboutcotshin2": "¿Cómo puedo contribuir a la traducción?",
+        "aboutcotshin22": "Agradecemos las contribuciones a la traducción. Puedes contactarnos a través de la página de Contacto para obtener más información sobre cómo participar.",
+        "aboutcall": "Participa en la Difusión del Bien",
+        "aboutdisc": "Ayúdanos a difundir adhkar y recordar a otros la virtud de recordar a Allah.",
+        "aboutdisc2": "Explora Adhkar Ahora"
+      },
+      "contact": {
+        "Contacttitl": "Contacto",
+        "Contactdis": "Nosotros",
+        "CardTitle": "Contáctenos",
+        "CardDescription": "Estamos aquí para ayudar. Envíanos un mensaje y responderemos lo antes posible.",
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "message": "Tu Mensaje",
+        "submit": "Enviar"
+      },
+      "Navbar": {
+        "HomePage": "Página de Inicio",
+        "morning-eveningpage": "Adhkar de Mañana y Tarde",
+        "sleeppage": "Adhkar de Sueño",
+        "aboutpage": "Acerca de",
+        "contactPage": "Contáctenos"
+      },
+      "Footer": {
+        "copyright": "Todos los derechos reservados",
+        "MessageCircle": "WhatsApp",
+        "Facebook": "Facebook",
+        "Instagram": "Instagram",
+        "Send": "Telegram",
+        "Twitter": "Twitter"
+      },
+      "languages": {
+        "AR": "Árabe",
+        "EN": "Inglés",
+        "FR": "Francés"
+      },
+      "categories": {
+        "morning": "Adhkar de Mañana y Tarde",
+        "slep": "Adhkar de Sueño"
+      },
+      "Buton": {
+        "dawn": "Descargar",
+        "red": "Leer",
+        "mor": "Aprender Más"
+      }
+    }
+}

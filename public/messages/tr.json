@@ -1,0 +1,87 @@
+{
+    "Home": {
+      "Title": "Otantik Müslüman Azkarları",
+      "Titledisc": "Arapça dışındaki yirmi dile çevrilmiştir. Çeviri, bu dillere çevrilen İslami kaynaklara başvurularak yapılmıştır. Çevirileri mükemmelleştirmek için her türlü çabayı gösterdik ve insan çalışması kusurlara tabi olduğu için, özellikle bilgisayar yazı tipleri %100 hizmet vermeyebileceğinden, çeviri ile ilgili geri bildirimi ekli Telegram ID'sine göndermenizi rica ederiz. Ödülü paylaşın ve Müslüman kardeşlerinize dünyadaki her türlü gözlemden kaçınmayın.",
+      "TitleHomePage": "Arapça dışındaki yirmi dile çevrilmiştir. Çeviri, bu dillere çevrilen İslami kaynaklara başvurularak yapılmıştır. Çevirileri mükemmelleştirmek için her türlü çabayı gösterdik ve insan çalışması kusurlara tabi olduğu için, özellikle bilgisayar yazı tipleri %100 hizmet vermeyebileceğinden, çeviri ile ilgili geri bildirimi ekli Telegram ID'sine göndermenizi rica ederiz. Ödülü paylaşın ve Müslüman kardeşlerinize dünyadaki her türlü gözlemden kaçınmayın.",
+      "app": "Azkar Uygulamasını İndirin",
+      "categorieserorr": "Kategori yok.",
+      "categoriestitl": "Kategoriler",
+      "categoriesdis": "Mevcut",
+      "contact": "Bize Ulaşın"
+    },
+    "morning-evening": {
+      "morningtitl": "Otantik Azkarlar",
+      "morningdis": "Sabah ve Akşam"
+    },
+    "sleep": {
+      "sleeptitl": "Otantik Azkarlar",
+      "sleepdis": "Uyku"
+    },
+    "rbet": {
+      "num": "Tekrar sayısı"
+    },
+    "about": {
+      "aboutimg": "Gerçekten Allah'ı anmakla kalpler huzur bulur",
+      "aboutmasige": "Misyonumuz",
+      "aboutmasigefoll": "Günlük azkarları orijinal metinlerin anlamlarını ve ruhunu koruyarak Müslümanların ana dillerinde dünyaya sunmayı amaçlıyoruz.",
+      "aboutm": "Özelliklerimiz",
+      "aboutli1": "Çok dillere çevrilmiş azkarlar",
+      "aboutli2": "Kullanıcı dostu akıllı telefon uygulaması",
+      "aboutli3": "Azkar seslerini dinleyebilme",
+      "aboutli4": "Günlük azkar hatırlatıcıları",
+      "aboutlang": "Mevcut Diller",
+      "aboutapp": "Uygulamamızı İndirin",
+      "aboutappdisc": "Her zaman, her yerde hızlı erişim için telefonunuza Azkar uygulamasını indirin.",
+      "aboutappandr": "Android için İndir",
+      "aboutappaple": "iPhone için İndir",
+      "aboutcotshintitle": "Azkarlar nasıl seçiliyor?",
+      "aboutcotshindesc": "Güvenilir kaynaklara ve otantik hadis kitaplarına dayanarak azkarları seçiyoruz, uzman alimlerin incelemesi ile.",
+      "aboutcotshin1": "Uygulama ücretsiz mi?",
+      "aboutcotshin11": "Evet, uygulama tamamen ücretsizdir ve herkese açıktır. İyiliği ücretsiz olarak yaymayı amaçlıyoruz.",
+      "aboutcotshin2": "Çeviriye nasıl katkıda bulunabilirim?",
+      "aboutcotshin22": "Çeviriye katkılarınızı memnuniyetle karşılıyoruz. Katılım hakkında daha fazla bilgi için Bize Ulaşın sayfası üzerinden bizimle iletişime geçebilirsiniz.",
+      "aboutcall": "İyiliği Yaymaya Katılın",
+      "aboutdisc": "Azkarları yaymamıza ve Allah'ı anmanın faziletini başkalarına hatırlatmamıza yardımcı olun.",
+      "aboutdisc2": "Azkarları Keşfet"
+    },
+    "contact": {
+      "Contacttitl": "İletişim",
+      "Contactdis": "Kurun",
+      "CardTitle": "Bize Ulaşın",
+      "CardDescription": "Size yardımcı olmak için buradayız. Bize bir mesaj gönderin ve en kısa sürede yanıtlayacağız.",
+      "name": "Ad",
+      "email": "E-posta",
+      "message": "Mesajınız",
+      "submit": "Gönder"
+    },
+    "Navbar": {
+      "HomePage": "Ana Sayfa",
+      "morning-eveningpage": "Sabah ve Akşam Azkarları",
+      "sleeppage": "Uyku Azkarları",
+      "aboutpage": "Hakkımızda",
+      "contactPage": "Bize Ulaşın"
+    },
+    "Footer": {
+      "copyright": "Tüm hakları saklıdır",
+      "MessageCircle": "WhatsApp",
+      "Facebook": "Facebook",
+      "Instagram": "Instagram",
+      "Send": "Telegram",
+      "Twitter": "Twitter"
+    },
+    "languages": {
+      "AR": "Arapça",
+      "EN": "İngilizce",
+      "FR": "Fransızca"
+    },
+    "categories": {
+      "morning": "Sabah ve Akşam Azkarları",
+      "slep": "Uyku Azkarları"
+    },
+    "Buton": {
+      "dawn": "İndir",
+      "red": "Oku",
+      "mor": "Daha Fazla Bilgi Edinin"
+    }
+  }
+  
